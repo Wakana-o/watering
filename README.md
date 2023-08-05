@@ -1,2 +1,0 @@
-# watering
-auto watering system
